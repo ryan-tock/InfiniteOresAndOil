@@ -1,14 +1,5 @@
 data:extend({
   {
-    name = "time-refill",
-    type = "int-setting",
-    setting_type = "runtime-global",
-    default_value = 300,
-    minimum_value = 1,
-    maximum_value = 1000000,
-    order = "ba"
-  },
-  {
     name = "refill-iron",
     type = "bool-setting",
     setting_type = "runtime-global",
@@ -67,7 +58,7 @@ data:extend({
     order = "db"
   },
   {
-    name = "refill-modded-yield",
+    name = "refill-modded-infinite",
     type = "bool-setting",
     setting_type = "runtime-global",
     default_value = true,

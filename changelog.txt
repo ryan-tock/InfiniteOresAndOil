@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.10
+Date: 2025.1.30
+  Optimizations
+    - Reworked how refilling infinite resources worked to avoid lag spikes every five minutes
+
+---------------------------------------------------------------------------------------------------
 Version: 2.0.1
 Date: 2025.1.28
   Bugfixes
@@ -39,7 +45,7 @@ Version: 1.0.1
 Date: 2021.12.27
   Bugfixes:
     - Fixed a bug where refill stone was checking the refill uranium setting
-  Optimisations:
+  Optimizations:
     - Made code more efficient and easier to read
 
 ---------------------------------------------------------------------------------------------------
