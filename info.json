@@ -1,12 +1,12 @@
 {
     "name": "InfiniteOresAndOil",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "factorio_version": "2.0",
     "title": "Infinite Ores And Oil",
     "author": "tocko73",
     "homepage": "",
     "license": "",
-    "description": "Prevents ore patches from running out. Keeps oil at a specific yield. Works with modded resources!",
+    "description": "Prevents ore patches from running out\nKeeps oil at a specific yield\nUPS optimized for megabases\nFully customizable mod settings\nWorks with modded resources",
     "dependencies": [
       "base >= 2.0",
       "?space-age >= 2.0"
